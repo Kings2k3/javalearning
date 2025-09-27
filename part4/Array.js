@@ -55,7 +55,7 @@ let citybucketlist = ['New York', 'Paris', 'Tokyo'];
 let topcitie = ['berlin', 'singapore', 'new york']
 let hardcopycitiess = [...topcitie]
 console.log(hardcopy);
-
+gi
 
 let europeancoountry = ['paris', 'rome']
 let asiancountry = ['china', 'tokyo']
