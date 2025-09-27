@@ -51,3 +51,4 @@ if (items.length === 0) {
     console.log('items array is not empty');
 }
 
+hello
